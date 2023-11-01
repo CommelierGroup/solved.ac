@@ -5,3 +5,10 @@
 
 https://solved.ac/class
 
+## 문제 풀이
+
+브랜치명 
+
+`<이름>/<문제번호>`
+
+main 으로 pull request 제출
