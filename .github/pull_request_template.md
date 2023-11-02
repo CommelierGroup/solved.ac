@@ -1,4 +1,4 @@
-- 문제: [n번: -]()
+- 문제: [n번: -](https://www.acmicpc.net/problem/-)
 
 - 난이도: 난이도를 적으세요
 
