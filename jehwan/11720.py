@@ -1,4 +1,6 @@
-input()
-nums = input()
-
-print(sum(int(num) for num in nums))
+print("""         ,r'"7
+r`-_   ,'  ,/
+ \\. ". L_r'
+   `~\\/
+      |
+      |""")
