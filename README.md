@@ -9,6 +9,8 @@ https://solved.ac/class
 
 브랜치명 
 
-`<이름>/<문제번호>`
+`<이름>/<클래스명>`
 
 main 으로 pull request 제출
+
+문제 단위로 커밋
